@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(51, 73, 172, 0.61);
+}
+#container-botoes{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+#container{
+    text-align: center;
+}
+#informacaes-faixa{
+    color: rgb(000, 000, 58);
+}
+#container-aplicativo{
+    text-align:center;
+    padding: 100px;
+}
+button{
+    color: rgba(51, 73, 172, 0.61);
+    padding: 10px 20px;
+}
