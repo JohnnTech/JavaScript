@@ -44,7 +44,15 @@ console.log(valor);  // undefined
 
 // Symbol: Valores únicos que podem ser usados como identificadores para objetos.
 
-let id = Symbol("id");
+let userId = Symbol("userId");
+
+let users = {
+  [userId]: 1,
+  name: "Bob",
+  email: "bob@example.com"
+};
+
+console.log(users[userId]); // 1
 
 // Tipos de Declaração de Variáveis
 
