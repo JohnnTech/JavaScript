@@ -4,7 +4,7 @@ O if e else são estruturas condicionais em JavaScript (e na maioria das linguag
 
 // Estrutura Básica do if
 
-if (condição) {
+if (condicao) {
   // Código a ser executado se a condição for verdadeira
 }
 
@@ -27,7 +27,7 @@ if (idade >= 18) {
 //Estrutura do if com else
 //O else é usado para definir um bloco de código que será executado quando a condição do if for falsa.
 
-if (condição) {
+if (condicao) {
   // Código a ser executado se a condição for verdadeira
 } else {
   // Código a ser executado se a condição for falsa
@@ -48,9 +48,9 @@ if (numIdade >= 18) {
 //Estrutura do if, else if e else
 //Quando há múltiplas condições, você pode usar else if para verificar outras condições após o if inicial.
 
-if (condição1) {
+if (condicao1) {
   // Código a ser executado se condição1 for verdadeira
-} else if (condição2) {
+} else if (condicao2) {
   // Código a ser executado se condição2 for verdadeira
 } else {
   // Código a ser executado se nenhuma das condições for verdadeira

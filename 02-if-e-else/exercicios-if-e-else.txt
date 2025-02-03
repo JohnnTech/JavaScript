@@ -1,0 +1,33 @@
+0 - Escreva um programa que solicita ao usuário sua idade e, com base nesse valor, determina se ele é elegível para votar.
+
+1 - Crie um programa que solicita ao usuário que insira duas notas de um aluno e determina se ele passou ou não na disciplina, considerando um critério de aprovação de, por exemplo, 6.0. O programa deve calcular a média das notas e indicar se o aluno foi aprovado ou reprovado.
+
+2 - Escreva um programa que solicita um número ao usuário e verifica se é par ou ímpar.
+
+3 - Crie um programa que solicita ao usuário seu tipo de assinatura (por exemplo, básico, premium, avançado) e determina o preço com base nessa seleção. Considere os seguintes preços para cada tipo de assinatura:
+    Assinatura Básica: R$ 20,00 por mês.
+    Assinatura Premium: R$ 50,00 por mês.
+    Assinatura Avançada: R$ 100,00 por mês.
+O programa deve exibir o preço correspondente à assinatura selecionada pelo usuário.
+
+4 - Desenvolva um programa que solicita ao usuário que insira o valor total de uma compra e verifica se ele é elegível para receber um desconto com base em um cupom promocional. Considere as seguintes informações sobre os descontos:
+
+    Se o valor da compra for igual ou superior a R$ 100,00, o usuário é elegível para um desconto de 10%.
+    Caso contrário, se o valor da compra estiver entre R$ 50,00 e R$ 99,99, o desconto é de 5%.
+    Se o valor da compra for inferior a R$ 50,00, o usuário não é elegível para nenhum desconto.
+
+O programa deve exibir uma mensagem indicando se o usuário é elegível para um desconto e, em caso afirmativo, qual é o valor do desconto.
+
+5 - Desenvolva um programa que solicita ao usuário três números e determina qual deles é o maior 
+
+6 - Desenvolva um programa que solicita ao usuário seu nome de usuário e senha e verifica se as credenciais fornecidas são válidas para acessar um sistema.
+
+Dica: Defina as credenciais válidas, antes de começar a solicitar as credenciais ao usuário, defina as credenciais válidas do sistema. Isso facilitará a comparação posterior.
+
+7 - Escreva um algoritmo que receba o nome, idade, sexo e salário fixo de um funcionário. Calcule e mostre o nome e salário líquido do funcionário de acordo com a tabela:
+    a) SEXO = M e IDADE >= 30,  ABONO = 100
+    b) SEXO = M e IDADE < 30,  ABONO = 50
+    c) SEXO = F e IDADE >= 30,  ABONO = 200
+    d) SEXO = F e IDADE < 30,  ABONO = 80
+
+8 - Elabore um algoritmo que leia o valor do lado do quadrado e calcule a área. Em seguida, calcule o dobro da área. Mostre a área e o dobro.
