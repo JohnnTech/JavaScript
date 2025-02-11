@@ -14,7 +14,8 @@ Exemplo:
 components/
   Header.js
   UserProfile.js
-kebab-case (comum para arquivos HTML, CSS ou em projetos que seguem essa convenção):
+
+  kebab-case (comum para arquivos HTML, CSS ou em projetos que seguem essa convenção):
 
 Exemplo:
 
@@ -22,7 +23,8 @@ Exemplo:
 public/
   index.html
   main-style.css
-3. Nomes de Arquivos de Testes
+
+  3. Nomes de Arquivos de Testes
 Use o mesmo nome do arquivo principal, seguido de .test ou .spec:
 
 Exemplo:
