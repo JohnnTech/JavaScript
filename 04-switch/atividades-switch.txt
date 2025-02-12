@@ -1,0 +1,110 @@
+Atividades de Switch
+
+1. Dias da Semana
+Peça ao usuário para digitar um número de 1 a 7. Use switch para exibir o dia da semana correspondente:
+
+1 = Domingo
+
+2 = Segunda-feira
+
+3 = Terça-feira
+
+4 = Quarta-feira
+
+5 = Quinta-feira
+
+6 = Sexta-feira
+
+7 = Sábado
+
+2. Cores do Arco-Íris
+Peça ao usuário para digitar um número de 1 a 7. Use switch para exibir uma cor do arco-íris:
+
+1 = Vermelho
+
+2 = Laranja
+
+3 = Amarelo
+
+4 = Verde
+
+5 = Azul
+
+6 = Anil
+
+7 = Violeta
+
+3. Operações Matemáticas
+Peça ao usuário para digitar dois números e uma operação (+, -, *, /). Use switch para realizar a operação e exibir o resultado.
+
+4. Classificação de Notas
+Peça ao usuário para digitar uma nota de 0 a 100. Use switch para classificar a nota em:
+
+A (90-100)
+
+B (80-89)
+
+C (70-79)
+
+D (60-69)
+
+F (0-59)
+
+5. Menu de Restaurante
+Crie um menu de restaurante com 5 opções (1 a 5). Use switch para exibir o prato correspondente à escolha do usuário:
+
+1 = Pizza
+
+2 = Hambúrguer
+
+3 = Salada
+
+4 = Sushi
+
+5 = Sobremesa
+
+6. Estações do Ano
+Peça ao usuário para digitar um número de 1 a 4. Use switch para exibir a estação do ano correspondente:
+
+1 = Primavera
+
+2 = Verão
+
+3 = Outono
+
+4 = Inverno
+
+7. Cálculo de Desconto
+Peça ao usuário para digitar um código de desconto (A, B, C). Use switch para aplicar o desconto correspondente:
+
+A = 10% de desconto
+
+B = 20% de desconto
+
+C = 30% de desconto
+
+8. Classificação de Filmes
+Peça ao usuário para digitar uma categoria de filme (Ação, Comédia, Drama, Terror). Use switch para recomendar um filme da categoria escolhida.
+
+9. Conversão de Moedas
+Peça ao usuário para digitar um código de moeda (USD, EUR, GBP). Use switch para converter um valor em reais (BRL) para a moeda escolhida.
+
+10. Planeta do Sistema Solar
+Peça ao usuário para digitar um número de 1 a 8. Use switch para exibir o nome do planeta correspondente:
+
+1 = Mercúrio
+
+2 = Vênus
+
+3 = Terra
+
+4 = Marte
+
+5 = Júpiter
+
+6 = Saturno
+
+7 = Urano
+
+8 = Netuno
+

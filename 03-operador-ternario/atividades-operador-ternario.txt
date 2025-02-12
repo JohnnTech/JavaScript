@@ -1,0 +1,14 @@
+Verificação de número par ou ímpar: Esta atividade determina se um número é par ou ímpar, utilizando o operador módulo (%) para verificar o resto da divisão por 2 e o 
+operador ternário para decidir a mensagem apropriada.
+
+Verificação de maioridade: Esta atividade verifica se uma pessoa é maior de idade, comparando a idade fornecida com 18 anos e utilizando o operador ternário para definir 
+a mensagem que indica se a pessoa é maior ou menor de idade.
+
+Verificação de permissão de acesso: Nesta atividade, é verificado se um usuário está logado ou não. O operador ternário é utilizado para decidir se a mensagem será de 
+acesso concedido ou acesso negado, com base no estado de login do usuário.
+
+Escolha de saudação com base no horário: Esta atividade escolhe a saudação apropriada (Bom dia, Boa tarde, Boa noite) com base na hora do dia. A condição é avaliada 
+utilizando o operador ternário para verificar se a hora é antes do meio-dia, antes das 18h ou depois, e exibe a saudação correspondente.
+
+Verificação de temperatura: Nesta atividade, é determinada a condição climática (Quente ou Fresco) com base na temperatura fornecida. Utiliza-se o operador ternário para 
+comparar a temperatura com 25 graus e decidir a mensagem que descreve o clima.
