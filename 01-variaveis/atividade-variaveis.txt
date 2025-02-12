@@ -8,8 +8,10 @@ Exercício 4: Declare duas variáveis chamadas "nome" e "sobrenome", atribua o s
 
 Exercício 5: Declare duas variáveis e atribua valores numéricos a elas. Use o operador de adição para realizar operações entre as duas variáveis. Imprima o resultado.
 
-Exercício 6: Declare duas variáveis e atribua valores booleanos a elas. Use os operadores lógicos AND, OR e NOT para realizar operações lógicas entre as variáveis. Imprima os resultados.
+Exercício 6: Declare duas variáveis e atribua valores booleanos a elas. Use os operadores lógicos AND, OR e NOT para realizar operações lógicas entre as variáveis. 
+Imprima os resultados.
 
-Exercício 7: Declare três variáveis e atribua valores numéricos a elas. Use operadores de comparação para comparar os valores entre as variáveis. Imprima os resultados. Exemplos de operadores de comparação: >, <, >=, <= e outros.
+Exercício 7: Declare três variáveis e atribua valores numéricos a elas. Use operadores de comparação para comparar os valores entre as variáveis. Imprima os resultados. 
+Exemplos de operadores de comparação: >, <, >=, <= e outros.
 
 Exercício 8: Declare uma variável e atribua um valor numérico a ela. Use o operador de incremento para aumentar o valor da variável. Imprima o resultado.
